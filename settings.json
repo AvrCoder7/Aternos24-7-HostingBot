@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Goatsmpbot1",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "GOATSMP_S1.aternos.me",
+    "port": 41813,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
